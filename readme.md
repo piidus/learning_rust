@@ -11,3 +11,7 @@ cd hello_rust
 ```
 cargo run
 ```
+
+## Rust Book
+```https://doc.rust-lang.org/book/```
+```rustup doc ```
