@@ -15,3 +15,5 @@ cargo run
 ## Rust Book
 ```https://doc.rust-lang.org/book/```
 ```rustup doc ```
+
+# library program use lib.rs with or without main.rs
