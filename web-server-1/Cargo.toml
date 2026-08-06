@@ -1,0 +1,10 @@
+[package]
+name = "web-server-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.53.1", features = ["full"] }
+axum = {version = "0.8.9", features = ["macros"]}
+askama = {version = "0.14.0"}
+dotenv ={ version ="0.15.0"}
